@@ -1,6 +1,6 @@
 var handler = async m => m.reply(`
 ╭─「 Donasi 」
-│ • Qirisallpay:6285878836361
+│ • Qirisallpay: https://srv.neoxr.tk/f/cK5oNk.jpg
 ╰────
 ╭─「 Hubungi 」
 │ > Ingin donasi? Wa.me/6285878836361
