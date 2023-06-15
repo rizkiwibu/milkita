@@ -19,20 +19,20 @@ global.moment = moment
 /*============= WAKTU =============*/
 global.owner = [
 	//  ['6281234288573'],
-	['6282331033919'],
-	['212706611366'],
-	['6282256080304'],
-	['6282188376948', 'Riin', false]
+	['6285878836361'],
+	['6285878836361'],
+	['6285878836361'],
+	['6285878836361', 'rizki', false]
 	// [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 
 global.packname = 'I ʜᴏᴘᴇ Yᴏᴜ\'ʀᴇ ғɪɴᴇ'
-global.author = '@x7||skizo'
-global.wm = '©xzn.wtf'
-global.no_wallet = ''
-global.nomorown = ''
+global.author = 'iky||bot'
+global.wm = '©ikybot'
+global.no_wallet = 'https://srv.neoxr.tk/f/cK5oNk.jpg'
+global.nomorown = '6285878836361'
 global.xznkey = '' // chat atmin buat dapetin apikeynya
 global.log = function log() {
 	var args = [].slice.call(arguments);
